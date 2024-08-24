@@ -123,8 +123,8 @@ $products = getAllProducts();
         }
         .product img {
             width: 100%;
-            height: 600px; /* Fixed height for the image */
-            object-fit: cover; /* Maintain aspect ratio, cover the element */
+            height: 350px; /* Fixed height for the image */
+            object-fit:cover; /* Maintain aspect ratio, cover the element */
         }
         footer {
             background-color: #333;
